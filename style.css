@@ -368,6 +368,7 @@
   .card-text-2 > p > span{
     color:#222222;
     font-weight: bold;
+    padding-right:3px;
   }
   .class-drop-down{
     font-size:20px;
